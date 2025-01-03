@@ -23,9 +23,9 @@
 I am a Software Engineer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan
 - :telescope: 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amirxon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-khaitov-973ab5203/)
   ---
