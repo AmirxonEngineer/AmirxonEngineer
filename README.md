@@ -49,4 +49,4 @@ I am a Software Engineer Developer <img src="https://media.giphy.com/media/WUlpl
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmirxonEngineer&theme=github-green-purple)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirxonEngineer&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirxonEngineer&layout=compact&theme=vision-friendly-dark)]()
